@@ -1,1 +1,10 @@
-# Test
+pipeline {
+agnets any
+
+stages {
+tage ('') {
+steps {
+}
+}
+}
+}
