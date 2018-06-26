@@ -2,7 +2,7 @@ pipeline {
 agnets any
 
 stages {
-tage ('') {
+stage ('') {
 steps {
 }
 }
