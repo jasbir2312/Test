@@ -4,6 +4,7 @@ agents any
 stages {
 stage ('') {
 steps {
+echo 'Hi'
 }
 }
 }
